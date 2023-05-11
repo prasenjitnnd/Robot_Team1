@@ -1,0 +1,16 @@
+# Default ignored files
+/report/
+/requirements.txt
+/.idea
+/resource/external/windows-app-wad/.metadata/.*
+/resource/external/windows-app-wad/java-res/.classpath
+/resource/external/windows-app-wad/java-res/.project
+/resource/external/windows-app-wad/java-res/.settings/.*
+/resource/external/windows-app-wad/java-res/lib/*.jar
+/resource/external/windows-app-wad/java-res/.settings/org.eclipse.jdt.core.prefs
+/resource/external/windows-app-wad/.metadata/version.ini
+/test/sample/report/
+/test/sample/__pycache__/
+/resource/external/windows-app-wad/java-res/bin
+/library/desktop/__pycache__/
+/library/__pycache__/
